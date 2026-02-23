@@ -2,21 +2,14 @@
 
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
 import numpy as np
-from datetime import datetime, timedelta
-import plotly.io as pio
-from scipy import stats
-import seaborn as sns
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-import io
-import base64
-from PIL import Image
+from datetime import datetime as dt
 from numerize.numerize import numerize
-import warnings
-warnings.filterwarnings('ignore')
+from PIL import Image
+
 
 
 # ───────────────────────────────────────────────────────────────────
