@@ -13,7 +13,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import io
 import base64
-from streamlit_keplergl import keplergl_static
 from keplergl import KeplerGl
 from PIL import Image
 from numerize.numerize import numerize
