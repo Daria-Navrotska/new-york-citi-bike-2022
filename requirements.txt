@@ -6,3 +6,4 @@ pillow == 11.1.0
 pandas == 2.2.3
 seaborn == 0.13.2
 scipy >= 1.10.0
+keplergl == 0.3.2
